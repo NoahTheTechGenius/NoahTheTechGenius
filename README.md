@@ -2,3 +2,4 @@
 - I love ghosts and computers.
 - I'm autistic.
 - noahOS is one of the best projects I've worked on.
+- I make all of my code on macOS and test it on Windows 10 (using a virtual machine).
